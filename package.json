@@ -1,0 +1,24 @@
+{
+  "name": "barcie_php",
+  "version": "2.1.0",
+  "description": "BarCIE International Center - Hotel Management System",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "build": "echo \"Static site - no build process required\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prynce0711/barcie_php.git"
+  },
+  "keywords": ["hotel", "management", "php", "bootstrap", "hospitality"],
+  "author": "Prynce Carlo Clemente",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prynce0711/barcie_php/issues"
+  },
+  "homepage": "https://github.com/Prynce0711/barcie_php#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.4"
+  }
+}
